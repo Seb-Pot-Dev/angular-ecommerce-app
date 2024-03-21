@@ -2,7 +2,7 @@
 
 ## Description
 
-I built this project following the official Angular guide to explore Angular functionalities. It is a simple e-commerce-like app with product/basket interactions.
+I built this project following the official Angular guide to explore Angular functionalities. It is a simple e-commerce-like app with product/basket interactions. Styles are customized and i added more explanations comments.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
